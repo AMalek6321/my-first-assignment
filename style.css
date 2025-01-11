@@ -31,6 +31,7 @@ font-size: 18px;
 font-weight: 500;
 border-color: #006A50;
 color:#006A50 ;
+cursor: pointer;
 }
 
 /* banner style  */
@@ -68,7 +69,6 @@ font-size: 56px;
 
 }
 .btn-primary{
-    
     height: 56px;
     width: 270px;
     background-color: #006A50;
@@ -77,6 +77,7 @@ font-size: 56px;
     font-weight: 700;
     font-size: 18px;
     padding: 17px 25px;
+    cursor: pointer;
 }
 
 /* section style  */
@@ -157,6 +158,7 @@ font-size: 56px;
     font-weight: 700;
     font-size: 14px;
     padding: 13px 26px;
+    cursor: pointer;
     
 }
 /* Dr Yunus */
@@ -175,3 +177,85 @@ font-size: 56px;
     font-size: 20px;
     color: #0E0E0E;
 }
+.recent{
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 80px;
+}
+.recent-title{
+    font-size: 40px;
+    font-weight: bold;
+}
+.bangladesh-new-satellite{
+    display: flex;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 20px;
+    padding: 48px;
+    justify-content: space-around;
+    background-color:#F9E5E5;
+    border-radius: 24px;
+
+}
+.satelite-image{
+    border-radius: 24px;  
+}
+.satelite-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+/* Donate style  */
+.donate{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.donate-today{
+    text-align: center;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.donation{
+    margin-left: 160px;
+    margin-right: 160px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    gap: 24px;
+
+}
+.donate-button{
+    width: 264px;
+    height: 128;
+    margin: 32px;
+    padding: 40px;
+    border-radius: 16px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    background-color: #C6E4D6;
+    cursor: pointer;
+}
+.other-amount{
+    margin-left: 284px;
+    margin-right: 284px;
+    justify-content: center;
+    display: flex;
+    width: 1032px;
+    height: 64px;
+    text-align: center;
+    
+}
+ .done-now{
+    display: flex;
+    justify-content: center;
+    
+ }
+ .done-button{
+    display: flex;
+    justify-content: center;
+    padding-top: 32px;
+ }
