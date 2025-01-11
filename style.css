@@ -159,3 +159,19 @@ font-size: 56px;
     padding: 13px 26px;
     
 }
+/* Dr Yunus */
+.yunus{
+    margin-left: 160px ;
+    margin-right: 160px;
+    background-image: url('./images/quote-bg.png');
+    background-repeat: no-repeat;
+}
+.yunus-speace{
+    font-size: 16px;
+    color: #0E0E0E; 
+}
+.Muhammad-Yunus{
+    font-weight: 700;
+    font-size: 20px;
+    color: #0E0E0E;
+}
