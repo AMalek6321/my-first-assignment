@@ -148,3 +148,14 @@ font-size: 56px;
     font-weight: bold;
     font-size: 20px;
 }
+.btn-primary-2{
+    height: 48px;
+    width: 139px;
+    background-color: #006A50;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 14px;
+    padding: 13px 26px;
+    
+}
